@@ -1,0 +1,54 @@
+
+.text-content{
+    // display: flex;
+    // flex-direction: column;
+    z-index: 100;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin-top: 111px;
+    .info-next{
+        width: 120px;
+        height: 30px;
+        margin: 0 auto;
+        font-family: 'Merienda';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 20px;
+        color: #FFFFFF;
+        border: 1px solid #FFFFFF;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 3px;
+        background-color: transparent;
+    }
+    .logo-coffee{
+        max-width: 200px;
+        height: 30px;
+        margin: 0 auto;
+    }
+}
+
+.first-text{
+    
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.second-text{
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+

@@ -7,12 +7,12 @@ import ProductBest from './productBest/productBest';
 
 const Home = () => {
     return (
-        <>
+        <div className="container">
             <MainBlock />
             <AboutUs />
             <ProductBest />
             <Footer />
-        </>
+        </div>
         
     )
 }
