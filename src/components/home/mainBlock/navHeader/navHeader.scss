@@ -1,0 +1,19 @@
+.nav-header {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    z-index: 100;
+    margin-top: 52px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+li {
+    margin-left: 40px;
+    list-style-type: none;
+}

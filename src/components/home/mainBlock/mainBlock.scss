@@ -1,0 +1,10 @@
+.main-block {
+    margin: 0 auto;
+    max-width: 1440px;
+    height: 100%;
+    position: relative;
+    
+    .main-block-bg {
+        position: absolute;
+    }
+}
