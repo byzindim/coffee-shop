@@ -1,20 +1,35 @@
 .about-us{
     display: flex;
-    position: relative;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 80px;
+   
 }
 
 
 
-.logo-coffee{
+.logo-coffee-us{
     max-width: 200px;
     height: 30px;
     margin: 0 auto;
 }
-h2{
+.about-us-title{
     font-family: 'Merienda';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 35px;
+    color: #000000;
+}
+
+.description-us{
+    max-width: 589px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
     color: #000000;
 }
